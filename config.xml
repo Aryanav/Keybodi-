@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.Aryan_Patil.MusicORG.by:AryanPatil"
+    versionCode = "10"
+    version     = "7.1.5" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Keybodi</name>
+
+  <description>
+      Hello There! This is an Updated Version of Music Org by: Aryan Patil.
+  </description>
+
+  <author href="https://build.phonegap.com" email="aryanpatil7185@gmail.com">
+      Aryan Patil
+  </author>
+  <icon src="ico.png"/>
+</widget>
